@@ -25,7 +25,9 @@
 ###
 
 <div data-importer="socials" align="center">
+  <a href="https://www.instagram.com/amar888__/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
